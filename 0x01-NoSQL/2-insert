@@ -1,0 +1,6 @@
+// Scrpit that inserts a Document in the school Collection
+db.school.insert(
+	{
+		name:"Holberton school"
+	}
+)
